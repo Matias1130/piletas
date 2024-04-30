@@ -434,4 +434,8 @@ li {
     h4{
         font-size: 1rem;
     }
+
+    .slider-item-reveal {
+        --swiffy-slider-item-reveal: 0;
+    }
 }
