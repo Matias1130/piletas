@@ -438,4 +438,7 @@ li {
     .slider-item-reveal {
         --swiffy-slider-item-reveal: 0;
     }
+    ul{
+        padding-left: 0.3rem;
+    }
 }
